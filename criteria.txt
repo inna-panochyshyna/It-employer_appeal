@@ -1,0 +1,133 @@
+------------------------------------COMPENSATION:------------------------------------
+
+1. Salary:
+a) above average on the market;
+b) corresponds to the average on the market;
+c) below average on the market.
+
+Total score: 25 12.5 0
+-------------------------------------------------------------------------------------
+
+2. Bonus system:
+a) advanced;
+b) weak; 
+c) lack of bonus system.
+
+Total score: 10 5 0
+-------------------------------------------------------------------------------------
+ 
+3. Vacations and sick leaves:
+a) paid in full;
+b) paid partly;
+c) are not paid.
+
+Total score: 5 2.5 0
+-------------------------------------------------------------------------------------
+
+-----------------------------PROFESSIONAL DEVELOPMENT:-------------------------------
+
+1. Project:
+a) long-term projects, mainly for large foreign customers, transfers between projects, bench;
+b) long-term project, the possibility of involvement in other projects;
+c) short-term project, lack of possibility for involvement in other projects.
+
+Total score: 12 6 0
+-------------------------------------------------------------------------------------
+
+2. Technology:
+a) the project uses "hot" technologies;
+b) the project uses common technologies;
+c) the project uses "outdated" technology.
+
+Total score: 10 5 0
+-------------------------------------------------------------------------------------
+
+3. Team:
+a) formed team, specialists with a high level of experience and competence;
+b) formed team, specialists with different levels of experience and competence;
+c) the team is in the process of formation, there is no information about competence and experience of specialists.
+
+Total score: 8 4 0
+-------------------------------------------------------------------------------------
+
+4. Competency development program:
+a) programs and development plans, trainings, workshops, certification;
+b) trainings, workshops;
+c) not provided for.
+
+Total score: 6 3 0
+-------------------------------------------------------------------------------------
+
+5. Foreign languages:
+a) foreign languages classes and communication with native speakers;
+b) foreign languages classes;
+c) not provided for.
+
+Total score: 4 2 0
+-------------------------------------------------------------------------------------
+
+--------------------------------------BENEFITS:--------------------------------------
+
+1. Place of work:
+a) at the choice of employee: remotely / in the office;
+b) in the office;
+c) different offices / frequent business trips / work on the clients side.
+
+Total score: 4 2 0
+-------------------------------------------------------------------------------------
+
+2. Work schedule:
+a) flexible;
+b) fixed;
+c) long hours, overtime.
+
+Total score: 4 2 0
+-------------------------------------------------------------------------------------
+
+3. Insurance:
+a) advanced insurance program;
+b) provided in some cases;
+c) not provided for.
+
+Total score: 4 2 0
+-------------------------------------------------------------------------------------
+
+4. Food:
+a) free lunch, fruit and drink;
+b) free fruit and drink;
+c) not provided for.
+
+Total score: 2 1 0
+-------------------------------------------------------------------------------------
+
+5. Subscriptions to sports clubs:
+a) provided for;
+b) provided in some cases;
+c) not provided for.
+
+Total score: 2 1 0
+-------------------------------------------------------------------------------------
+
+6. Office location:
+a) close:
+b) not far;
+c) uncomfortable.
+
+Total score: 2 1 0
+-------------------------------------------------------------------------------------
+
+7. Parking: 
+a) guaranteed;
+b) possible in some cases;
+c) there is no parking.
+
+Total score: 1 0.5 0
+-------------------------------------------------------------------------------------
+
+8. Corporate events:
+a) held regularly;
+b) held rarely;
+c) not held.
+
+Total score: 1 0.5 0
+-------------------------------------------------------------------------------------
